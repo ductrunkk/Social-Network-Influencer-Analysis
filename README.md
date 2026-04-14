@@ -79,15 +79,6 @@ The Streamlit app provides 3 business-facing views:
 - Community assignment
 - Interactive ego-network visualization (Pyvis)
 
-## Senior AI/ML Scope Demonstrated
-
-- End-to-end pipeline design (ingestion to UI)
-- Graph analytics and feature extraction at scale
-- Practical modeling under class imbalance
-- Explainable outputs for non-technical stakeholders
-- Performance-minded implementation using caching
-- Clean modular architecture for maintainability
-
 ## Tech Stack
 
 - Python
